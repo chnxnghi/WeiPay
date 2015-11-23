@@ -1,0 +1,66 @@
+﻿2015-10-14 13:54:17     ============ 单次支付开始 ===============
+
+2015-10-14 13:54:17     传递支付参数：OrderSN=、Body=、TotalFee=、Attach=、UserOpenId=
+
+2015-10-14 13:54:17     WeiPay 页面  sign：799DC2C66037B538597DF6D46C16578C
+
+2015-10-14 14:13:55     Notify 页面  发送异常错误：未将对象引用设置到对象的实例。
+
+2015-10-14 14:17:16     ============ 单次支付开始 ===============
+
+2015-10-14 14:17:16     传递支付参数：OrderSN=、Body=、TotalFee=、Attach=、UserOpenId=
+
+2015-10-14 14:17:16     WeiPay 页面  sign：6C2F07CB88D09DD8E0AA0801945C13D7
+
+2015-10-14 14:25:44     ============ 单次支付开始 ===============
+
+2015-10-14 14:25:44     传递支付参数：OrderSN=、Body=、TotalFee=、Attach=、UserOpenId=
+
+2015-10-14 14:25:44     WeiPay 页面  sign：B0EE783FF441018FB07B0542A4B89DE8
+
+2015-10-14 14:27:13     ============ 单次支付开始 ===============
+
+2015-10-14 14:27:13     传递支付参数：OrderSN=、Body=、TotalFee=、Attach=、UserOpenId=
+
+2015-10-14 14:27:13     WeiPay 页面  sign：E61A53444CC26FFF441B60ED5F351590
+
+2015-10-14 14:32:26     ============ 单次支付开始 ===============
+
+2015-10-14 14:32:26     传递支付参数：OrderSN=、Body=、TotalFee=、Attach=、UserOpenId=
+
+2015-10-14 14:32:26     WeiPay 页面  sign：4800900AD72DE81C4F5F7D9ECEAA0A8A
+
+2015-10-14 14:33:51     ============ 单次支付开始 ===============
+
+2015-10-14 14:33:51     传递支付参数：OrderSN=、Body=、TotalFee=、Attach=、UserOpenId=
+
+2015-10-14 14:33:51     WeiPay 页面  sign：11BD1D4EDEC162487231D795EB9E4279
+
+2015-10-14 14:33:51     WeiPay 页面  package（XML）：
+
+2015-10-14 14:33:53     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[post数据为空]]></return_msg>
+</xml>
+
+2015-10-14 14:33:53     WeiPay 页面  paySign：0BB392237E0D86BE23F0E2FBEBD25A2B
+
+2015-10-14 14:36:24     ============ 单次支付开始 ===============
+
+2015-10-14 14:36:24     传递支付参数：OrderSN=、Body=、TotalFee=、Attach=、UserOpenId=
+
+2015-10-14 14:36:24     WeiPay 页面  sign：477C61E4035E4837705B554894C0BAEA
+
+2015-10-14 14:38:44     ============ 单次支付开始 ===============
+
+2015-10-14 14:38:44     传递支付参数：OrderSN=、Body=、TotalFee=、Attach=、UserOpenId=
+
+2015-10-14 14:38:44     WeiPay 页面  sign：1CF666ABC085BAE4CA98635C09F01D47
+
+2015-10-14 14:38:44     WeiPay 页面  package（XML）：<xml><appid><![CDATA[XXXXXXXXXXXXXXXXX]]></appid><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[1CF666ABC085BAE4CA98635C09F01D47]]></sign><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><mch_id><![CDATA[XXXXXXXXXXXXXXXXX]]></mch_id><nonce_str><![CDATA[6ea2ef7311b482724a9b7b0bc0dd85c6]]></nonce_str><notify_url><![CDATA[http://zousky.com/WXPay/Notify.aspx]]></notify_url></xml>
+
+2015-10-14 14:38:46     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[缺少参数]]></return_msg>
+</xml>
+
+2015-10-14 14:38:46     WeiPay 页面  paySign：7B393F4F98CA4C12E375FB722059DF69
+

@@ -1,0 +1,4 @@
+2015-11-20 21:58:13.895 INFO ASP.send_aspx: page load
+2015-11-20 21:58:14.800 DEBUG WxPayAPI.JsApiPay: Will Redirect to URL : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxe4b6204ce633aa92&redirect_uri=http%3a%2f%2flocalhost%2fSend.aspx&response_type=code&scope=snsapi_base&state=STATE#wechat_redirect
+2015-11-20 22:27:04.672 INFO ASP.weipay_aspx: page load
+2015-11-20 22:27:04.694 ERROR ASP.weipay_aspx: This page have not get params, cannot be inited, exit...

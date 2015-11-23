@@ -1,0 +1,20 @@
+﻿2015/10/23 9:14:45     ============ 单次支付开始 ===============
+
+2015/10/23 9:14:45     传递支付参数：OrderSN=、Body=、TotalFee=、Attach=、UserOpenId=
+
+2015/10/23 9:14:45     weipay:dll开始
+
+2015/10/23 9:14:45     weipay:dll成功：53202413
+
+2015/10/23 9:14:45     WeiPay 页面  sign：FB56A25009FEB6D8BEB7F20DD8C6491A
+
+2015/10/23 9:14:45     WeiPay 页面  package（XML）：<xml><appid><![CDATA[wxe4b6204ce633aa92]]></appid><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[FB56A25009FEB6D8BEB7F20DD8C6491A]]></sign><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><out_trade_no><![CDATA[53202413]]></out_trade_no><mch_id><![CDATA[1277437101]]></mch_id><nonce_str><![CDATA[ccb0989662211f61edae2e26d58ea92f]]></nonce_str><notify_url><![CDATA[http://www.ccbu.cn/Notify.aspx]]></notify_url></xml>
+
+2015/10/23 9:14:47     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[缺少参数]]></return_msg>
+</xml>
+
+2015/10/23 9:14:47     WeiPay 页面  paySign：977175E5170A5302E2F4A5A02E845C86
+
+2015/10/23 10:23:41      IsPostBack=False,code为null获取OpenId:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxe4b6204ce633aa92&redirect_uri=http://www.ccbu.cn/Send.aspx&response_type=code&scope=snsapi_base&state=lk#wechat_redirect
+

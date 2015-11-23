@@ -1,0 +1,2 @@
+﻿2015/10/22 15:59:35      IsPostBack=False,code为null获取OpenId:https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxe4b6204ce633aa92&redirect_uri=http://www.ccbu.cn/Send.aspx&response_type=code&scope=snsapi_base&state=lk#wechat_redirect
+

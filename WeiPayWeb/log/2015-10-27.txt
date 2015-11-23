@@ -1,0 +1,20 @@
+﻿2015/10/27 9:00:56     Notify 页面  发送异常错误：未将对象引用设置到对象的实例。
+
+2015/10/27 9:18:36     ============ 单次支付开始 ===============
+
+2015/10/27 9:18:36     传递支付参数：OrderSN=、Body=、TotalFee=、Attach=、UserOpenId=
+
+2015/10/27 9:18:36     weipay:dll开始
+
+2015/10/27 9:18:36     weipay:dll成功：-20151026
+
+2015/10/27 9:18:36     WeiPay 页面  sign：F3846FFE75D65335C040F090D380D399
+
+2015/10/27 9:18:36     WeiPay 页面  package（XML）：<xml><appid><![CDATA[wxe4b6204ce633aa92]]></appid><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[F3846FFE75D65335C040F090D380D399]]></sign><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><out_trade_no><![CDATA[-20151026]]></out_trade_no><mch_id><![CDATA[1277437101]]></mch_id><nonce_str><![CDATA[c75b6f114c23a4d7ea11331e7c00e73c]]></nonce_str><notify_url><![CDATA[http://www.hztc.com.cn/WeiPay/Notify.aspx?showwxpaytitle=1]]></notify_url></xml>
+
+2015/10/27 9:18:38     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[缺少参数]]></return_msg>
+</xml>
+
+2015/10/27 9:18:38     WeiPay 页面  paySign：601DAC0FB089034AC996F3BDB15A6E74
+

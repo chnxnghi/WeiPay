@@ -1,0 +1,40 @@
+﻿2015/10/26 16:02:16     ============ 单次支付开始 ===============
+
+2015/10/26 16:02:16     传递支付参数：OrderSN=、Body=、TotalFee=、Attach=、UserOpenId=
+
+2015/10/26 16:02:16     weipay:dll开始
+
+2015/10/26 16:02:16     weipay:dll成功：-20151026
+
+2015/10/26 16:02:16     WeiPay 页面  sign：159A9D18993D75E4340B0E179E2C1615
+
+2015/10/26 16:02:16     WeiPay 页面  package（XML）：<xml><appid><![CDATA[wxe4b6204ce633aa92]]></appid><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[159A9D18993D75E4340B0E179E2C1615]]></sign><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><out_trade_no><![CDATA[-20151026]]></out_trade_no><mch_id><![CDATA[1277437101]]></mch_id><nonce_str><![CDATA[d61e4bbd6393c9111e6526ea173a7c8b]]></nonce_str><notify_url><![CDATA[http://www.hztc.com.cn/WeiPay/Notify.aspx]]></notify_url></xml>
+
+2015/10/26 16:02:18     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[缺少参数]]></return_msg>
+</xml>
+
+2015/10/26 16:02:18     WeiPay 页面  paySign：288495590C07B05CF047BE0637974778
+
+2015/10/26 17:23:42     Notify 页面  发送异常错误：未将对象引用设置到对象的实例。
+
+2015/10/26 17:24:58     Notify 页面  发送异常错误：未将对象引用设置到对象的实例。
+
+2015/10/26 17:25:25     Notify 页面  发送异常错误：未将对象引用设置到对象的实例。
+
+2015/10/26 17:26:01     Notify 页面  发送异常错误：未将对象引用设置到对象的实例。
+
+2015/10/26 17:27:12     Notify 页面  发送异常错误：未将对象引用设置到对象的实例。
+
+2015/10/26 17:27:41     Notify 页面  发送异常错误：未将对象引用设置到对象的实例。
+
+2015/10/26 17:29:00     Notify 页面  发送异常错误：未将对象引用设置到对象的实例。
+
+2015/10/26 17:29:40     Notify 页面  发送异常错误：未将对象引用设置到对象的实例。
+
+2015/10/26 17:30:15     Notify 页面  发送异常错误：未将对象引用设置到对象的实例。
+
+2015/10/26 17:31:03     Notify 页面  发送异常错误：未将对象引用设置到对象的实例。
+
+2015/10/26 17:34:35     Notify 页面  发送异常错误：未将对象引用设置到对象的实例。
+

@@ -1,0 +1,9 @@
+2015-10-16 17:14:52.107 INFO ASP.example_nativepaypage_aspx: page load
+2015-10-16 17:14:52.455 INFO WxPayAPI.NativePay: Native pay mode 1 url is producing...
+2015-10-16 17:14:52.825 INFO WxPayAPI.NativePay: Get native pay mode 1 url : weixin://wxpay/bizpayurl?appid=wx2428e34e0e7dc6ef&mch_id=1233410002&nonce_str=98b26a4cfae64fc28943255134b4d99d&product_id=123456789&sign=18E8DD245EDED675177B920AB27FF266&time_stamp=1444986893
+2015-10-16 17:14:52.827 INFO WxPayAPI.NativePay: Native pay mode 2 url is producing...
+2015-10-16 17:14:52.832 DEBUG WxPayApi: UnfiedOrder request : <xml><appid><![CDATA[wx2428e34e0e7dc6ef]]></appid><attach><![CDATA[test]]></attach><body><![CDATA[test]]></body><goods_tag><![CDATA[jjj]]></goods_tag><mch_id><![CDATA[1233410002]]></mch_id><nonce_str><![CDATA[8cc02d734822485496ef9a020bb567a5]]></nonce_str><notify_url><![CDATA[http://paysdk.weixin.qq.com/example/ResultNotifyPage.aspx]]></notify_url><out_trade_no><![CDATA[123341000220151016171452596]]></out_trade_no><product_id><![CDATA[123456789]]></product_id><sign><![CDATA[D10EBF287A4B98B2614AAB209BA0E1E3]]></sign><spbill_create_ip><![CDATA[8.8.8.8]]></spbill_create_ip><time_expire><![CDATA[20151016172452]]></time_expire><time_start><![CDATA[20151016171452]]></time_start><total_fee>1</total_fee><trade_type><![CDATA[NATIVE]]></trade_type></xml>
+2015-10-16 17:15:15.482 ERROR HttpService: System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 WxPayAPI.HttpService.Post(String xml, String url, Boolean isUseCert, Int32 timeout) 位置 d:\360data\重要数据\桌面\WxPayAPI_CS_v3\WxPayAPI_CS_v3\WxPayAPI\WxPayAPI\lib\HttpService.cs:行号 74

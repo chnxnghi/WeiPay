@@ -1,0 +1,20 @@
+﻿2015/11/20 14:04:39     WeiPay sign：93EEF9AB2EC02C19A2C3C481E3D7FF41
+
+2015/11/20 14:04:39     WeiPay 页面  package（XML）：<xml><appid><![CDATA[wxe4b6204ce633aa92]]></appid><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[93EEF9AB2EC02C19A2C3C481E3D7FF41]]></sign><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><out_trade_no><![CDATA[-20151026]]></out_trade_no><mch_id><![CDATA[1277437101]]></mch_id><nonce_str><![CDATA[a4a042cf4fd6bfb47701cbc8a1653ada]]></nonce_str><notify_url><![CDATA[http://www.hztc.com.cn/WeiPay/Notify.aspx]]></notify_url></xml>
+
+2015/11/20 14:04:43     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[缺少参数]]></return_msg>
+</xml>
+
+2015/11/20 14:04:43     WeiPay 页面  paySign：E0375F381E41EE8A224A09CAD47C7AF4
+
+2015/11/20 14:32:37     WeiPay sign：DA500F2918D2718C5701F9BC6C425BDB
+
+2015/11/20 14:32:37     WeiPay 页面  package（XML）：<xml><appid><![CDATA[wxe4b6204ce633aa92]]></appid><trade_type><![CDATA[JSAPI]]></trade_type><sign><![CDATA[DA500F2918D2718C5701F9BC6C425BDB]]></sign><spbill_create_ip><![CDATA[::1]]></spbill_create_ip><out_trade_no><![CDATA[-20151026-20151120143237]]></out_trade_no><mch_id><![CDATA[1277437101]]></mch_id><nonce_str><![CDATA[53e3a7161e428b65688f14b84d61c610]]></nonce_str><notify_url><![CDATA[http://www.hztc.com.cn/WeiPay/Notify.aspx]]></notify_url></xml>
+
+2015/11/20 14:32:38     WeiPay 页面  package（Back_XML）：<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[缺少参数]]></return_msg>
+</xml>
+
+2015/11/20 14:32:38     WeiPay 页面  paySign：653EE35B44203C4347FFB0FED73572AF
+
