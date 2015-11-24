@@ -51,17 +51,15 @@
 </script>
 <body>
     <form id="form1" runat="server">
-        <div style="margin-left: 2%; color: #f00">您的机器码是：<%= attach %></div>
+        <div style="margin-left: 2%;">您的机器码是：<%= attach %></div>
         <br />
-        <div>
-            <asp:Label ID="Label1" runat="server" Style="color: #00CD00;"><b>恒智天成产品注册码: 价格为</b></asp:Label><br /><br />
+        <div style="margin-left: 2%;">
+            注意：本产品需要付费，费用为<b><span style="color:#f00">10元</span></b>。请点击下方“立即购买”完成支付，付款后自动显示注册码。（恒智天成官方收费，请您放心支付）
         </div>
-        <div>
-            <asp:Label ID="Label2" runat="server" Style="color: #00CD00;"><b><span style="color:#f00;font-size:50px">10元</span>钱</b></asp:Label><br /><br />
-        </div>
+        <br />
         <div align="center">
             <input id="BtnSubmit" type="button" value="立即购买" onclick="callpay()" Style="width: 210px; height: 50px; border-radius: 15px; background-color: #00CD00; border: 0px #FE6714 solid; cursor: pointer; color: white; font-size: 16px;"" />
-        </div>
+        </div><br /><br />
     </form>
 </body>
 </html>
